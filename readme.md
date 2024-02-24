@@ -1,7 +1,4 @@
-Certainly! Here's the updated README markdown with a placeholder for the API key and a note on where to obtain it:
-
-```markdown
-# Pokedex Image Analyzer
+# PokeDex (Image Analyser)
 
 This Python script utilizes the Google Generative AI library to analyze images of Pokemon and extract Pokedex data. If the provided image is not of a Pokemon, it refuses to provide information. The extracted data includes the name, type, species, height, weight, abilities, and a brief description of the Pokemon.
 
