@@ -17,7 +17,7 @@ Ensure you have Python installed, then run the following commands to install the
 2. Navigate to the directory containing the script.
 3. Execute the script in a Jupyter Notebook or any Python environment.
 
-Before running the script, you'll need to obtain an API key from Google Generative AI. You can find instructions on how to obtain an API key [here][https://generativeai.dev/](https://aistudio.google.com/app/apikey)).
+Before running the script, you'll need to obtain an API key from Google Generative AI. You can find instructions on how to obtain an API key [here][(https://generativeai.dev/)](https://aistudio.google.com/app/apikey)).
 
 Once you have obtained the API key, replace `"YOUR_API_KEY"` in the script with your actual API key. Also, ensure that you have images of Pokemon stored in the `pokemon/` folder for the script to analyze.
 
